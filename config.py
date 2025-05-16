@@ -1,0 +1,1 @@
+# config.py - configuração central das filas RabbitMQ
